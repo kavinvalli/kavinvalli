@@ -1,4 +1,8 @@
 #+title: Kavin
 
-Hi there :wave:
 [[file:images/Banner.png]]
+
+*** Hi There! Welcome to my Github Page :wave_tone1:
+
+My name is Kavin and I am a student and web designer from Delhi, India.
+
