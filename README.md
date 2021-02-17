@@ -1,5 +1,3 @@
-<img alt="Banner" src="images/Banner.png" />
-
 ### Hi There! Welcome to my Github Page :wave:
 
 
