@@ -18,3 +18,10 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I am a ful
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50" />
 
 ---
+
+### Latest blog articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> [...more articles](https://livecode247.com)
