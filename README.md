@@ -8,14 +8,7 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I am a ful
 
 ---
 #### Stack
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50" />
 
 ---
 
@@ -30,3 +23,12 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I am a ful
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin25&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&theme=dracula" />
+</a>
