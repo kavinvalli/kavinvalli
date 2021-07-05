@@ -4,7 +4,7 @@
 
 My name is Kavin and I am a student and web designer from Delhi, India.
 
-I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I am a fullstack Web Developer with experience in mostly Javascript and Python.
+I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co-founder of [Tricycle](https://tricycle.life) and am a volunteer at the [New Delhi Space Society](https://new-delhi-space-society.github.io). I am a fullstack Web Developer with experience in mostly Javascript and Python.
 
 ---
 #### Stack
