@@ -32,11 +32,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to learn programming? - A developer's perspective](https://livecode247.com/how-to-learn-programming-a-developers-perspective)
 - [A Discord bot for task management!](https://livecode247.com/a-discord-bot-for-task-management)
 - [How to take command line arguments in NodeJS?](https://livecode247.com/how-to-take-command-line-arguments-in-nodejs)
 - [Control your Github from the command line with the Github CLI](https://livecode247.com/control-your-github-from-the-command-line-with-the-github-cli)
 - [Cricket Fans inside Visual Studio Code?](https://livecode247.com/cricket-fans-inside-visual-studio-code)
-- [The ultimate .gitignore dev tool is here](https://livecode247.com/the-ultimate-gitignore-dev-tool-is-here)
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
