@@ -18,6 +18,7 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 - CSS
 - SCSS
 - Javascript
+- Typescript
 - NodeJS
 - Python
 - Django
