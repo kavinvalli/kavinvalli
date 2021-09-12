@@ -33,7 +33,7 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
-- [My attempt at creating a unique portfolio website!](https://livecode247.com/my-attempt-at-creating-a-unique-portfolio-website)
+- [My attempt at creating a unique portfolio website! Hint: Terminal](https://livecode247.com/my-attempt-at-creating-a-unique-portfolio-website)
 - [Local NodeJS Environment Variables](https://livecode247.com/local-nodejs-environment-variables)
 - [How to learn programming? - A developer's perspective](https://livecode247.com/how-to-learn-programming-a-developers-perspective)
 - [A Discord bot for task management!](https://livecode247.com/a-discord-bot-for-task-management)
