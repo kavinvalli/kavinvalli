@@ -44,4 +44,5 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ---
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=kavin25&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Kavin's Github Stats">
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=kavin25&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Kavin's Github Stats"> -->
