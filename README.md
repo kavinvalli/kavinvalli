@@ -65,5 +65,6 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin25&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinvalli&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats">
+[![Kavin's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavinvalli&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Kavin's Github Stats"> -->
