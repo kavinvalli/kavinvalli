@@ -54,11 +54,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [RITA - Batteries included starter for Adonis apps](https://livecode247.com/rita-batteries-included-starter-for-adonis-apps)
 - [I wrote a Github CLI extension to fuzzy find repos and run actions on them](https://livecode247.com/i-wrote-a-github-cli-extension-to-fuzzy-find-repos-and-run-actions-on-them)
 - [My attempt at creating a unique portfolio website! Hint: Terminal](https://livecode247.com/my-attempt-at-creating-a-unique-portfolio-website)
 - [Local NodeJS Environment Variables](https://livecode247.com/local-nodejs-environment-variables)
 - [How to learn programming? - A developer&#39;s perspective](https://livecode247.com/how-to-learn-programming-a-developers-perspective)
-- [A Discord bot for task management!](https://livecode247.com/a-discord-bot-for-task-management)
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
