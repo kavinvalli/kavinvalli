@@ -65,11 +65,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/exunclan/exunclan.github.io/pull/118) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-2. 💪 Opened PR [#13](https://github.com/someshkar/dotco/pull/13) in [someshkar/dotco](https://github.com/someshkar/dotco)
-3. ❗️ Opened issue [#16](https://github.com/Task-Manager-Bot/discord-task-bot/issues/16) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-4. 🎉 Merged PR [#115](https://github.com/exunclan/exunclan.github.io/pull/115) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-5. 🎉 Merged PR [#114](https://github.com/exunclan/exunclan.github.io/pull/114) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+1. 🎉 Merged PR [#119](https://github.com/exunclan/exunclan.github.io/pull/119) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+2. 🎉 Merged PR [#118](https://github.com/exunclan/exunclan.github.io/pull/118) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+3. 💪 Opened PR [#13](https://github.com/someshkar/dotco/pull/13) in [someshkar/dotco](https://github.com/someshkar/dotco)
+4. ❗️ Opened issue [#16](https://github.com/Task-Manager-Bot/discord-task-bot/issues/16) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+5. 🎉 Merged PR [#115](https://github.com/exunclan/exunclan.github.io/pull/115) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
 <!--END_SECTION:activity-->
 
 ---
