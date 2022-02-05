@@ -63,6 +63,10 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 > [...more articles](https://livecode247.com)
 
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinvalli&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats">
