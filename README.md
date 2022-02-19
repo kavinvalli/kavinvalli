@@ -65,11 +65,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/JLighter/aura.nvim/pull/2) in [JLighter/aura.nvim](https://github.com/JLighter/aura.nvim)
-2. ❗️ Closed issue [#14](https://github.com/Task-Manager-Bot/discord-task-bot/issues/14) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-3. 🗣 Commented on [#14](https://github.com/Task-Manager-Bot/discord-task-bot/issues/14) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-4. 🎉 Merged PR [#15](https://github.com/Task-Manager-Bot/discord-task-bot/pull/15) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-5. 🗣 Commented on [#15](https://github.com/Task-Manager-Bot/discord-task-bot/issues/15) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+1. 💪 Opened PR [#21](https://github.com/dotangad/liret/pull/21) in [dotangad/liret](https://github.com/dotangad/liret)
+2. 💪 Opened PR [#2](https://github.com/JLighter/aura.nvim/pull/2) in [JLighter/aura.nvim](https://github.com/JLighter/aura.nvim)
+3. ❗️ Closed issue [#14](https://github.com/Task-Manager-Bot/discord-task-bot/issues/14) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+4. 🗣 Commented on [#14](https://github.com/Task-Manager-Bot/discord-task-bot/issues/14) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+5. 🎉 Merged PR [#15](https://github.com/Task-Manager-Bot/discord-task-bot/pull/15) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
 <!--END_SECTION:activity-->
 
 ---
