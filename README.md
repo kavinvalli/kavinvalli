@@ -65,11 +65,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/Hashnode/support/pull/53) in [Hashnode/support](https://github.com/Hashnode/support)
-2. 💪 Opened PR [#15](https://github.com/someshkar/dotco/pull/15) in [someshkar/dotco](https://github.com/someshkar/dotco)
-3. 🗣 Commented on [#779](https://github.com/sheerun/vim-polyglot/issues/779) in [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
-4. 💪 Opened PR [#21](https://github.com/dotangad/liret/pull/21) in [dotangad/liret](https://github.com/dotangad/liret)
-5. 💪 Opened PR [#2](https://github.com/JLighter/aura.nvim/pull/2) in [JLighter/aura.nvim](https://github.com/JLighter/aura.nvim)
+1. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
+2. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
+3. 💪 Opened PR [#53](https://github.com/Hashnode/support/pull/53) in [Hashnode/support](https://github.com/Hashnode/support)
+4. 💪 Opened PR [#15](https://github.com/someshkar/dotco/pull/15) in [someshkar/dotco](https://github.com/someshkar/dotco)
+5. 🗣 Commented on [#779](https://github.com/sheerun/vim-polyglot/issues/779) in [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
 <!--END_SECTION:activity-->
 
 ---
