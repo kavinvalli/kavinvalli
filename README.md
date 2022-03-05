@@ -69,7 +69,7 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 2. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
 3. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
 4. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
-5. 💪 Opened PR [#53](https://github.com/Hashnode/support/pull/53) in [Hashnode/support](https://github.com/Hashnode/support)
+5. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
 <!--END_SECTION:activity-->
 
 ---
