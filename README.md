@@ -67,9 +67,9 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
 2. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
-3. 💪 Opened PR [#53](https://github.com/Hashnode/support/pull/53) in [Hashnode/support](https://github.com/Hashnode/support)
-4. 💪 Opened PR [#15](https://github.com/someshkar/dotco/pull/15) in [someshkar/dotco](https://github.com/someshkar/dotco)
-5. 🗣 Commented on [#779](https://github.com/sheerun/vim-polyglot/issues/779) in [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
+3. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
+4. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
+5. 💪 Opened PR [#53](https://github.com/Hashnode/support/pull/53) in [Hashnode/support](https://github.com/Hashnode/support)
 <!--END_SECTION:activity-->
 
 ---
