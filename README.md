@@ -65,7 +65,7 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
+1. 🎉 Merged PR [#3](https://github.com/kavinvalli/github-slideshow/pull/3) in [kavinvalli/github-slideshow](https://github.com/kavinvalli/github-slideshow)
 2. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
 3. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
 4. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
