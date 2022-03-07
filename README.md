@@ -54,11 +54,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a static HTML and CSS site using Github Pages](https://livecode247.com/deploying-a-static-html-and-css-site-using-github-pages)
 - [I built a Link shortener using Remix and here&#39;s my experience!](https://livecode247.com/i-built-a-link-shortener-using-remix-and-heres-my-experience)
 - [How to show code diffs in your Hashnode Blog?](https://livecode247.com/how-to-show-code-diffs-in-your-hashnode-blog)
 - [Start a web server with Node.JS and Express](https://livecode247.com/start-a-web-server-with-nodejs-and-express)
 - [My Developer Setup in 2022!](https://livecode247.com/my-developer-setup-in-2022)
-- [RITA - Batteries included starter for Adonis apps](https://livecode247.com/rita-batteries-included-starter-for-adonis-apps)
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
