@@ -54,11 +54,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks: useState](https://livecode247.com/react-hooks-usestate)
+- [Beginner&#39;s guide to useEffect hook in React](https://livecode247.com/beginners-guide-to-useeffect-hook-in-react)
+- [Beginner&#39;s guide to useState hook in React](https://livecode247.com/beginners-guide-to-usestate-hook-in-react)
 - [Deploying a static HTML and CSS site using Github Pages](https://livecode247.com/deploying-a-static-html-and-css-site-using-github-pages)
 - [I built a Link shortener using Remix and here&#39;s my experience!](https://livecode247.com/i-built-a-link-shortener-using-remix-and-heres-my-experience)
 - [How to show code diffs in your Hashnode Blog?](https://livecode247.com/how-to-show-code-diffs-in-your-hashnode-blog)
-- [Start a web server with Node.JS and Express](https://livecode247.com/start-a-web-server-with-nodejs-and-express)
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
