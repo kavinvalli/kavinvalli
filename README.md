@@ -65,11 +65,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kavinvalli/kavinvalli.github.io/pull/7) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-2. 💪 Opened PR [#5](https://github.com/Bartek532/zagrodzki.me/pull/5) in [Bartek532/zagrodzki.me](https://github.com/Bartek532/zagrodzki.me)
-3. 💪 Opened PR [#4](https://github.com/Bartek532/zagrodzki.me/pull/4) in [Bartek532/zagrodzki.me](https://github.com/Bartek532/zagrodzki.me)
-4. 🎉 Merged PR [#3](https://github.com/kavinvalli/github-slideshow/pull/3) in [kavinvalli/github-slideshow](https://github.com/kavinvalli/github-slideshow)
-5. 🗣 Commented on [#18](https://github.com/adisreyaj/flare/issues/18) in [adisreyaj/flare](https://github.com/adisreyaj/flare)
+1. ❌ Closed PR [#123](https://github.com/exunclan/exunclan.github.io/pull/123) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+2. ❌ Closed PR [#121](https://github.com/exunclan/exunclan.github.io/pull/121) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+3. ❌ Closed PR [#120](https://github.com/exunclan/exunclan.github.io/pull/120) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+4. ❌ Closed PR [#117](https://github.com/exunclan/exunclan.github.io/pull/117) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+5. ❌ Closed PR [#116](https://github.com/exunclan/exunclan.github.io/pull/116) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
 <!--END_SECTION:activity-->
 
 ---
