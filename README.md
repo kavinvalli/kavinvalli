@@ -65,11 +65,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#123](https://github.com/exunclan/exunclan.github.io/pull/123) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-2. ❌ Closed PR [#121](https://github.com/exunclan/exunclan.github.io/pull/121) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-3. ❌ Closed PR [#120](https://github.com/exunclan/exunclan.github.io/pull/120) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-4. ❌ Closed PR [#117](https://github.com/exunclan/exunclan.github.io/pull/117) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-5. ❌ Closed PR [#116](https://github.com/exunclan/exunclan.github.io/pull/116) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+1. ❗️ Opened issue [#5](https://github.com/rebelchris/daily-dev-tips/issues/5) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+2. ❌ Closed PR [#123](https://github.com/exunclan/exunclan.github.io/pull/123) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+3. ❌ Closed PR [#121](https://github.com/exunclan/exunclan.github.io/pull/121) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+4. ❌ Closed PR [#120](https://github.com/exunclan/exunclan.github.io/pull/120) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+5. ❌ Closed PR [#117](https://github.com/exunclan/exunclan.github.io/pull/117) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
 <!--END_SECTION:activity-->
 
 ---
