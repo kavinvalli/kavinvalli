@@ -1,3 +1,4 @@
+
 ### Hi There! Welcome to my Github Page :wave:
 
 ---
@@ -11,6 +12,13 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 - [Website](https://kavin.me)
 - [Linkedin](https://linkedin.com/in/kavinvalli)
 - [Email](mailto:mail@kavin.me)
+ 
+ <a href="https://app.daily.dev/kavinvalli"><img align="right" src="https://raw.githubusercontent.com/kavinvalli/kavinvalli/devcard/devcard.svg" width="256" alt="Kavin Desi Valli's Dev Card"/></a>
+---
+
+![Metrics](https://raw.githubusercontent.com/kavinvalli/kavinvalli/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/kavinvalli/kavinvalli/github-metrics/language.svg)
+![Achievements](https://raw.githubusercontent.com/kavinvalli/kavinvalli/github-metrics/achievements.svg)
 
 ---
 ## Languages and Tools
@@ -72,9 +80,9 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 5. ❌ Closed PR [#117](https://github.com/exunclan/exunclan.github.io/pull/117) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
 <!--END_SECTION:activity-->
 
----
+<!-- --- -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinvalli&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinvalli&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Kavin's Github Stats">
 
-[![Kavin's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavinvalli&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kavin's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavinvalli&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin25&layout=compact&hide_border=true&theme=tokyonight" alt="Kavin's Github Stats"> -->
