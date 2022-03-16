@@ -74,10 +74,10 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/rebelchris/daily-dev-tips/issues/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-2. 🎉 Merged PR [#1](https://github.com/kavinvalli/normal-website/pull/1) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
-3. 💪 Opened PR [#6](https://github.com/rebelchris/daily-dev-tips/pull/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-4. ❗️ Opened issue [#5](https://github.com/rebelchris/daily-dev-tips/issues/5) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-5. ❌ Closed PR [#123](https://github.com/exunclan/exunclan.github.io/pull/123) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+2. 🗣 Commented on [#6](https://github.com/rebelchris/daily-dev-tips/issues/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+3. 🎉 Merged PR [#1](https://github.com/kavinvalli/normal-website/pull/1) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
+4. 💪 Opened PR [#6](https://github.com/rebelchris/daily-dev-tips/pull/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+5. ❗️ Opened issue [#5](https://github.com/rebelchris/daily-dev-tips/issues/5) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
