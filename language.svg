@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.8572615197571" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="317.8572615197571" y="0" width="196.06623523091878" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="513.9234967506759" y="0" width="163.5756023944002" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="677.499099145076" y="0" width="111.57231457295755" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="789.0714137180336" y="0" width="82.99864058843393" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="872.0700543064676" y="0" width="20.467094274833272" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="892.5371485813008" y="0" width="18.815593956001067" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="911.3527425373019" y="0" width="8.647257462698139" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.9217951456061" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="317.9217951456061" y="0" width="195.9065791934039" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="513.82837433901" y="0" width="163.6088126683215" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="677.4371870073314" y="0" width="111.51959242162278" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="788.9567794289543" y="0" width="83.01549155855837" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="871.9722709875126" y="0" width="20.4712496488456" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="892.4435206363582" y="0" width="18.907466273669137" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="911.3509869100275" y="0" width="8.649013089972625" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>7.80 MB</div>
-                                <div>34.55%</div>
+                                <div>34.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -67,7 +67,7 @@
                             </div>
                             <small>
                                 <div>4.81 MB</div>
-                                <div>21.31%</div>
+                                <div>21.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -79,7 +79,7 @@
                             </div>
                             <small>
                                 <div>502 kB</div>
-                                <div>2.22%</div>
+                                <div>2.23%</div>
                             </small>
                         </div>
                     </section>
@@ -104,8 +104,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>461 kB</div>
-                                <div>2.05%</div>
+                                <div>463 kB</div>
+                                <div>2.06%</div>
                             </small>
                         </div>
                     </section>
@@ -119,7 +119,7 @@
                             </div>
                             <small>
                                 <div>2.74 MB</div>
-                                <div>12.13%</div>
+                                <div>12.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
