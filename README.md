@@ -73,11 +73,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-2. ❗️ Opened issue [#46](https://github.com/sotte/presenting.vim/issues/46) in [sotte/presenting.vim](https://github.com/sotte/presenting.vim)
-3. 🗣 Commented on [#6](https://github.com/rebelchris/daily-dev-tips/issues/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-4. 🗣 Commented on [#6](https://github.com/rebelchris/daily-dev-tips/issues/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-5. 🎉 Merged PR [#1](https://github.com/kavinvalli/normal-website/pull/1) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
+1. ❗️ Closed issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+2. 🗣 Commented on [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+3. ❗️ Opened issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+4. ❗️ Opened issue [#46](https://github.com/sotte/presenting.vim/issues/46) in [sotte/presenting.vim](https://github.com/sotte/presenting.vim)
+5. 🗣 Commented on [#6](https://github.com/rebelchris/daily-dev-tips/issues/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
