@@ -73,11 +73,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-2. 🗣 Commented on [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-3. ❗️ Opened issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-4. ❗️ Opened issue [#46](https://github.com/sotte/presenting.vim/issues/46) in [sotte/presenting.vim](https://github.com/sotte/presenting.vim)
-5. 🗣 Commented on [#6](https://github.com/rebelchris/daily-dev-tips/issues/6) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+1. 🎉 Merged PR [#126](https://github.com/exunclan/exunclan.github.io/pull/126) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+2. ❗️ Closed issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+3. 🗣 Commented on [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+4. ❗️ Opened issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+5. ❗️ Opened issue [#46](https://github.com/sotte/presenting.vim/issues/46) in [sotte/presenting.vim](https://github.com/sotte/presenting.vim)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
