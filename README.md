@@ -73,11 +73,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
-2. 🗣 Commented on [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
-3. 🎉 Merged PR [#126](https://github.com/exunclan/exunclan.github.io/pull/126) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-4. ❗️ Closed issue [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
-5. 🗣 Commented on [#17](https://github.com/Task-Manager-Bot/discord-task-bot/issues/17) in [Task-Manager-Bot/discord-task-bot](https://github.com/Task-Manager-Bot/discord-task-bot)
+1. 🎉 Merged PR [#129](https://github.com/exunclan/exunclan.github.io/pull/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+2. 🗣 Commented on [#129](https://github.com/exunclan/exunclan.github.io/issues/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+3. ❗️ Closed issue [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
+4. 🗣 Commented on [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
+5. 🎉 Merged PR [#126](https://github.com/exunclan/exunclan.github.io/pull/126) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
