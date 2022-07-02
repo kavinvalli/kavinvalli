@@ -73,11 +73,11 @@ I am a part of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/exunclan/exunclan.github.io/pull/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-2. 🗣 Commented on [#129](https://github.com/exunclan/exunclan.github.io/issues/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-3. ❗️ Closed issue [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
-4. 🗣 Commented on [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
-5. 🎉 Merged PR [#126](https://github.com/exunclan/exunclan.github.io/pull/126) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+1. 💪 Opened PR [#435](https://github.com/coderjojo/creative-profile-readme/pull/435) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+2. 🎉 Merged PR [#129](https://github.com/exunclan/exunclan.github.io/pull/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+3. 🗣 Commented on [#129](https://github.com/exunclan/exunclan.github.io/issues/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+4. ❗️ Closed issue [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
+5. 🗣 Commented on [#2](https://github.com/kavinvalli/normal-website/issues/2) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
