@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/dotangad/liret/issues/92) in [dotangad/liret](https://github.com/dotangad/liret)
-2. 💪 Opened PR [#92](https://github.com/dotangad/liret/pull/92) in [dotangad/liret](https://github.com/dotangad/liret)
-3. 💪 Opened PR [#435](https://github.com/coderjojo/creative-profile-readme/pull/435) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
-4. 🎉 Merged PR [#129](https://github.com/exunclan/exunclan.github.io/pull/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
-5. 🗣 Commented on [#129](https://github.com/exunclan/exunclan.github.io/issues/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
+1. 🎉 Merged PR [#2](https://github.com/exunclan/website-2022/pull/2) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+2. 🗣 Commented on [#92](https://github.com/dotangad/liret/issues/92) in [dotangad/liret](https://github.com/dotangad/liret)
+3. 💪 Opened PR [#92](https://github.com/dotangad/liret/pull/92) in [dotangad/liret](https://github.com/dotangad/liret)
+4. 💪 Opened PR [#435](https://github.com/coderjojo/creative-profile-readme/pull/435) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+5. 🎉 Merged PR [#129](https://github.com/exunclan/exunclan.github.io/pull/129) in [exunclan/exunclan.github.io](https://github.com/exunclan/exunclan.github.io)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
