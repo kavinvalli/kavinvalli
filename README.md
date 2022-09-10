@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/exunclan/website-2022/pull/7) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-2. 🎉 Merged PR [#6](https://github.com/exunclan/website-2022/pull/6) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-3. 🗣 Commented on [#6](https://github.com/exunclan/website-2022/issues/6) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-4. 🎉 Merged PR [#5](https://github.com/exunclan/website-2022/pull/5) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-5. 🎉 Merged PR [#4](https://github.com/exunclan/website-2022/pull/4) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+1. 💪 Opened PR [#4](https://github.com/Mokshit06/macaron/pull/4) in [Mokshit06/macaron](https://github.com/Mokshit06/macaron)
+2. 🎉 Merged PR [#7](https://github.com/exunclan/website-2022/pull/7) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+3. 🎉 Merged PR [#6](https://github.com/exunclan/website-2022/pull/6) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+4. 🗣 Commented on [#6](https://github.com/exunclan/website-2022/issues/6) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+5. 🎉 Merged PR [#5](https://github.com/exunclan/website-2022/pull/5) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
