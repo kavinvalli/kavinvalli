@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Mokshit06/macaron/pull/4) in [Mokshit06/macaron](https://github.com/Mokshit06/macaron)
-2. 🎉 Merged PR [#7](https://github.com/exunclan/website-2022/pull/7) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-3. 🎉 Merged PR [#6](https://github.com/exunclan/website-2022/pull/6) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-4. 🗣 Commented on [#6](https://github.com/exunclan/website-2022/issues/6) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-5. 🎉 Merged PR [#5](https://github.com/exunclan/website-2022/pull/5) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+1. ❌ Closed PR [#133](https://github.com/wei/socialify/pull/133) in [wei/socialify](https://github.com/wei/socialify)
+2. 🗣 Commented on [#133](https://github.com/wei/socialify/issues/133) in [wei/socialify](https://github.com/wei/socialify)
+3. 💪 Opened PR [#133](https://github.com/wei/socialify/pull/133) in [wei/socialify](https://github.com/wei/socialify)
+4. 💪 Opened PR [#4](https://github.com/Mokshit06/macaron/pull/4) in [Mokshit06/macaron](https://github.com/Mokshit06/macaron)
+5. 🎉 Merged PR [#7](https://github.com/exunclan/website-2022/pull/7) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
