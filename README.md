@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/exunclan/website-2022/pull/13) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-2. ❌ Closed PR [#12](https://github.com/exunclan/website-2022/pull/12) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-3. 🎉 Merged PR [#11](https://github.com/exunclan/website-2022/pull/11) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-4. ❌ Closed PR [#133](https://github.com/wei/socialify/pull/133) in [wei/socialify](https://github.com/wei/socialify)
-5. 🗣 Commented on [#133](https://github.com/wei/socialify/issues/133) in [wei/socialify](https://github.com/wei/socialify)
+1. 🎉 Merged PR [#13](https://github.com/exunclan/website-2022/pull/13) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+2. 💪 Opened PR [#13](https://github.com/exunclan/website-2022/pull/13) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+3. ❌ Closed PR [#12](https://github.com/exunclan/website-2022/pull/12) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+4. 🎉 Merged PR [#11](https://github.com/exunclan/website-2022/pull/11) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+5. ❌ Closed PR [#133](https://github.com/wei/socialify/pull/133) in [wei/socialify](https://github.com/wei/socialify)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
