@@ -77,7 +77,7 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 2. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
 3. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
 4. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
-5. ❗️ Opened issue [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
+5. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
