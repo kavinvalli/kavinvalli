@@ -74,9 +74,9 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
-2. ❌ Closed PR [#23](https://github.com/exunclan/website-2022/pull/23) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-3. 🎉 Merged PR [#8](https://github.com/kavinvalli/kavinvalli.github.io/pull/8) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-4. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
+2. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
+3. ❌ Closed PR [#23](https://github.com/exunclan/website-2022/pull/23) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+4. 🎉 Merged PR [#8](https://github.com/kavinvalli/kavinvalli.github.io/pull/8) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
 5. 🗣 Commented on [#117](https://github.com/NvChad/base46/issues/117) in [NvChad/base46](https://github.com/NvChad/base46)
 <!--END_SECTION:activity-->
 
