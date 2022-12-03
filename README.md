@@ -62,11 +62,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord bot which shows your private Advent of Code leaderboard](https://livecode247.com/discord-bot-which-shows-your-private-advent-of-code-leaderboard)
 - [Why I think the t3 stack is the next big thing in the JS... oh wait... the TS ecosystem?](https://livecode247.com/why-t3-stack)
 - [How to implement dark mode using TailwindCSS?](https://livecode247.com/how-to-implement-dark-mode-using-tailwindcss)
 - [Beginner&#39;s guide to useEffect hook in React](https://livecode247.com/beginners-guide-to-useeffect-hook-in-react)
 - [Beginner&#39;s guide to useState hook in React](https://livecode247.com/beginners-guide-to-usestate-hook-in-react)
-- [Deploying a static HTML and CSS site using Github Pages](https://livecode247.com/deploying-a-static-html-and-css-site-using-github-pages)
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
