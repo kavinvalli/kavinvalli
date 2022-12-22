@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/macaron-css/macaron/issues/15) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
-2. 🗣 Commented on [#11](https://github.com/macaron-css/macaron/issues/11) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
+1. 🎉 Merged PR [#33](https://github.com/exunclan/website-2022/pull/33) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+2. 🗣 Commented on [#15](https://github.com/macaron-css/macaron/issues/15) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
 3. 🗣 Commented on [#11](https://github.com/macaron-css/macaron/issues/11) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
-4. 💪 Opened PR [#11](https://github.com/macaron-css/macaron/pull/11) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
-5. 💪 Opened PR [#10](https://github.com/macaron-css/macaron/pull/10) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
+4. 🗣 Commented on [#11](https://github.com/macaron-css/macaron/issues/11) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
+5. 💪 Opened PR [#11](https://github.com/macaron-css/macaron/pull/11) in [macaron-css/macaron](https://github.com/macaron-css/macaron)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
