@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Mokshit06/typewind/issues/3) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+1. ❗️ Closed issue [#2](https://github.com/Mokshit06/typewind/issues/2) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 2. 🗣 Commented on [#2](https://github.com/Mokshit06/typewind/issues/2) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-3. 🗣 Commented on [#38](https://github.com/lukas-reineke/headlines.nvim/issues/38) in [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim)
-4. 💪 Opened PR [#4](https://github.com/labs-asterisk/interview-checklist/pull/4) in [labs-asterisk/interview-checklist](https://github.com/labs-asterisk/interview-checklist)
-5. 🎉 Merged PR [#33](https://github.com/exunclan/website-2022/pull/33) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+3. 🗣 Commented on [#3](https://github.com/Mokshit06/typewind/issues/3) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+4. 🗣 Commented on [#2](https://github.com/Mokshit06/typewind/issues/2) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+5. 🗣 Commented on [#38](https://github.com/lukas-reineke/headlines.nvim/issues/38) in [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
