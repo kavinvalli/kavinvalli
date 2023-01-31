@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Mokshit06/typewind/issues/13) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-2. ❗️ Closed issue [#9](https://github.com/Mokshit06/typewind/issues/9) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-3. 🗣 Commented on [#9](https://github.com/Mokshit06/typewind/issues/9) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-4. 🗣 Commented on [#14](https://github.com/Mokshit06/typewind/issues/14) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-5. 🗣 Commented on [#13](https://github.com/Mokshit06/typewind/issues/13) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+1. ❗️ Closed issue [#19](https://github.com/Mokshit06/typewind/issues/19) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+2. 🗣 Commented on [#19](https://github.com/Mokshit06/typewind/issues/19) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+3. 🗣 Commented on [#18](https://github.com/Mokshit06/typewind/issues/18) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+4. 🗣 Commented on [#13](https://github.com/Mokshit06/typewind/issues/13) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+5. ❗️ Closed issue [#9](https://github.com/Mokshit06/typewind/issues/9) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
