@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/exunclan/website-2022/pull/40) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-2. 🗣 Commented on [#35](https://github.com/exunclan/website-2022/issues/35) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
-3. 🗣 Commented on [#35](https://github.com/Mokshit06/typewind/issues/35) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-4. 🗣 Commented on [#15](https://github.com/Mokshit06/typewind/issues/15) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-5. 🗣 Commented on [#29](https://github.com/Mokshit06/typewind/issues/29) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+1. 🗣 Commented on [#37](https://github.com/Mokshit06/typewind/issues/37) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+2. 🎉 Merged PR [#40](https://github.com/exunclan/website-2022/pull/40) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+3. 🗣 Commented on [#35](https://github.com/exunclan/website-2022/issues/35) in [exunclan/website-2022](https://github.com/exunclan/website-2022)
+4. 🗣 Commented on [#35](https://github.com/Mokshit06/typewind/issues/35) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+5. 🗣 Commented on [#15](https://github.com/Mokshit06/typewind/issues/15) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
