@@ -73,10 +73,10 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/Mokshit06/typewind/issues/37) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+1. 🔒 Closed issue [#37](https://github.com/Mokshit06/typewind/issues/37) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 2. 🗣 Commented on [#43](https://github.com/Mokshit06/typewind/issues/43) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 3. 🗣 Commented on [#41](https://github.com/Mokshit06/typewind/issues/41) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
-4. ❗️ Opened issue [#53](https://github.com/githubnext/blocks-template/issues/53) in [githubnext/blocks-template](https://github.com/githubnext/blocks-template)
+4. ❗ Opened issue [#53](https://github.com/githubnext/blocks-template/issues/53) in [githubnext/blocks-template](https://github.com/githubnext/blocks-template)
 5. 🗣 Commented on [#37](https://github.com/Mokshit06/typewind/issues/37) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 <!--END_SECTION:activity-->
 
