@@ -73,10 +73,10 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48748](https://github.com/vercel/next.js/issues/48748) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 💪 Opened PR [#1](https://github.com/sadmann7/shadcn-table-v2/pull/1) in [sadmann7/shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2)
 2. 🗣 Commented on [#48748](https://github.com/vercel/next.js/issues/48748) in [vercel/next.js](https://github.com/vercel/next.js)
 3. 🗣 Commented on [#48748](https://github.com/vercel/next.js/issues/48748) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🔒 Closed issue [#37](https://github.com/Mokshit06/typewind/issues/37) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
+4. 🗣 Commented on [#48748](https://github.com/vercel/next.js/issues/48748) in [vercel/next.js](https://github.com/vercel/next.js)
 5. 🗣 Commented on [#43](https://github.com/Mokshit06/typewind/issues/43) in [Mokshit06/typewind](https://github.com/Mokshit06/typewind)
 <!--END_SECTION:activity-->
 
