@@ -73,11 +73,11 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/prismaneui/prismane/issues/20#issuecomment-1637137008) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-2. 🔒 Closed issue [#21](https://github.com/prismaneui/prismane/issues/21) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-3. 🗣 Commented on [#20](https://github.com/prismaneui/prismane/issues/20#issuecomment-1637136889) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-4. ❗ Opened issue [#21](https://github.com/prismaneui/prismane/issues/21) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
-5. 🗣 Commented on [#4](https://github.com/sadmann7/shadcn-table-v2/pull/4#issuecomment-1635464775) in [sadmann7/shadcn-table-v2](https://github.com/sadmann7/shadcn-table-v2)
+1. 🗣 Commented on [#26](https://github.com/prismaneui/prismane/issues/26#issuecomment-1637161756) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
+2. 🗣 Commented on [#23](https://github.com/prismaneui/prismane/issues/23#issuecomment-1637161308) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
+3. 🗣 Commented on [#20](https://github.com/prismaneui/prismane/issues/20#issuecomment-1637137008) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
+4. 🔒 Closed issue [#21](https://github.com/prismaneui/prismane/issues/21) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
+5. 🗣 Commented on [#20](https://github.com/prismaneui/prismane/issues/20#issuecomment-1637136889) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
