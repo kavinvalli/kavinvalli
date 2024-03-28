@@ -3,9 +3,9 @@
 
 ---
 
-My name is Kavin and I am a student and web designer from Delhi, India.
+My name is Kavin and I am a student and a full stack web developer. I am currently pursuing a bachelor's in Computer Engineering from the University of Waterloo, Canada.
 
-I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co-founder of [Tricycle](https://tricycle.life) and am the Chapter Officer at the [New Delhi Space Society](https://new-delhi-space-society.github.io). I am a maintainer of [Typewind](https://github.com/mokshit06/typewind) I am a fullstack Web Developer with experience in mostly Javascript, PHP and Python.
+I was the president of my school Tech Club [Exun Clan](https://exunclan.com). I am the Chapter Officer at the [New Delhi Space Society](https://new-delhi-space-society.github.io). I am a maintainer of [Typewind](https://github.com/mokshit06/typewind).
 
 ---
 ## Connect with me
