@@ -62,11 +62,11 @@ I was the president of my school Tech Club [Exun Clan](https://exunclan.com). I 
 ### Latest blog articles
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s so easy to convert a NextJS App to use the App Router!](https://livecode247.com/its-so-easy-to-convert-a-nextjs-app-to-use-the-app-router)
 - [Master NextJS 13 Data Fetching with this Step-by-Step Guide](https://livecode247.com/demystifying-data-fetching-in-nextjs-13)
 - [Try using this authentication method in your next NextJS project!! &lpar;Hint: Magic Links&rpar;](https://livecode247.com/try-using-this-authentication-method-in-your-next-nextjs-project-hint-magic-links)
 - [Boost Your Neovim Experience with These Essential Plugins](https://livecode247.com/boost-your-neovim-experience-with-these-essential-plugins)
 - [Typewind: The magic of Tailwind combined with the safety of Typescript](https://livecode247.com/typewind-the-magic-of-tailwind-combined-with-the-safety-of-typescript)
-- [Dev Retro 2022, A Flashback to my life as a developer this past year](https://livecode247.com/dev-retro-2022-a-flashback-to-my-life-as-a-developer-this-past-year)
 <!-- BLOG-POST-LIST:END -->
 
 > [...more articles](https://livecode247.com)
