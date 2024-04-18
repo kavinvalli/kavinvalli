@@ -73,9 +73,9 @@ I was the president of my school Tech Club [Exun Clan](https://exunclan.com). I 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/sadmann7/skateshop/issues/66#issuecomment-1698771343) in [sadmann7/skateshop](https://github.com/sadmann7/skateshop)
-2. ❗ Opened issue [#66](https://github.com/sadmann7/skateshop/issues/66) in [sadmann7/skateshop](https://github.com/sadmann7/skateshop)
-3. 🎉 Merged PR [#2](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/2) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+1. 🎉 Merged PR [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+2. 🗣 Commented on [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7#issuecomment-2065473466) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+3. 🗣 Commented on [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7#issuecomment-2065468022) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
 4. ❌ Closed PR [#1](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/1) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
 5. 🗣 Commented on [#26](https://github.com/prismaneui/prismane/issues/26#issuecomment-1637161756) in [prismaneui/prismane](https://github.com/prismaneui/prismane)
 <!--END_SECTION:activity-->
