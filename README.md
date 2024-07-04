@@ -73,11 +73,11 @@ I was the president of my school Tech Club [Exun Clan](https://exunclan.com). I 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/8) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
-2. 🗣 Commented on [#8](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/8#issuecomment-2113421201) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
-3. 🗣 Commented on [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7#issuecomment-2070232806) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
-4. 🎉 Merged PR [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
-5. 🗣 Commented on [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7#issuecomment-2065473466) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+1. 💪 Opened PR [#2240](https://github.com/Helicone/helicone/pull/2240) in [Helicone/helicone](https://github.com/Helicone/helicone)
+2. 🎉 Merged PR [#8](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/8) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+3. 🗣 Commented on [#8](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/8#issuecomment-2113421201) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+4. 🗣 Commented on [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7#issuecomment-2070232806) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
+5. 🎉 Merged PR [#7](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io/pull/7) in [New-Delhi-Space-Society/new-delhi-space-society.github.io](https://github.com/New-Delhi-Space-Society/new-delhi-space-society.github.io)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
