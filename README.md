@@ -73,11 +73,11 @@ I was the president of my school Tech Club [Exun Clan](https://exunclan.com). I 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2730](https://github.com/Helicone/helicone/pull/2730#issuecomment-2402973217) in [Helicone/helicone](https://github.com/Helicone/helicone)
-2. ❌ Closed PR [#2656](https://github.com/Helicone/helicone/pull/2656) in [Helicone/helicone](https://github.com/Helicone/helicone)
-3. 🗣 Commented on [#2730](https://github.com/Helicone/helicone/pull/2730#issuecomment-2400937257) in [Helicone/helicone](https://github.com/Helicone/helicone)
-4. 🎉 Merged PR [#2734](https://github.com/Helicone/helicone/pull/2734) in [Helicone/helicone](https://github.com/Helicone/helicone)
-5. 💪 Opened PR [#2730](https://github.com/Helicone/helicone/pull/2730) in [Helicone/helicone](https://github.com/Helicone/helicone)
+1. 💪 Opened PR [#2749](https://github.com/Helicone/helicone/pull/2749) in [Helicone/helicone](https://github.com/Helicone/helicone)
+2. 🗣 Commented on [#2730](https://github.com/Helicone/helicone/pull/2730#issuecomment-2402973217) in [Helicone/helicone](https://github.com/Helicone/helicone)
+3. ❌ Closed PR [#2656](https://github.com/Helicone/helicone/pull/2656) in [Helicone/helicone](https://github.com/Helicone/helicone)
+4. 🗣 Commented on [#2730](https://github.com/Helicone/helicone/pull/2730#issuecomment-2400937257) in [Helicone/helicone](https://github.com/Helicone/helicone)
+5. 🎉 Merged PR [#2734](https://github.com/Helicone/helicone/pull/2734) in [Helicone/helicone](https://github.com/Helicone/helicone)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
