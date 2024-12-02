@@ -73,11 +73,11 @@ I was the president of my school Tech Club [Exun Clan](https://exunclan.com). I 
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2995](https://github.com/Helicone/helicone/pull/2995) in [Helicone/helicone](https://github.com/Helicone/helicone)
-2. 💪 Opened PR [#2992](https://github.com/Helicone/helicone/pull/2992) in [Helicone/helicone](https://github.com/Helicone/helicone)
-3. 💪 Opened PR [#2988](https://github.com/Helicone/helicone/pull/2988) in [Helicone/helicone](https://github.com/Helicone/helicone)
-4. 🎉 Merged PR [#2987](https://github.com/Helicone/helicone/pull/2987) in [Helicone/helicone](https://github.com/Helicone/helicone)
-5. 💪 Opened PR [#2987](https://github.com/Helicone/helicone/pull/2987) in [Helicone/helicone](https://github.com/Helicone/helicone)
+1. 💪 Opened PR [#3006](https://github.com/Helicone/helicone/pull/3006) in [Helicone/helicone](https://github.com/Helicone/helicone)
+2. 💪 Opened PR [#2995](https://github.com/Helicone/helicone/pull/2995) in [Helicone/helicone](https://github.com/Helicone/helicone)
+3. 💪 Opened PR [#2992](https://github.com/Helicone/helicone/pull/2992) in [Helicone/helicone](https://github.com/Helicone/helicone)
+4. 💪 Opened PR [#2988](https://github.com/Helicone/helicone/pull/2988) in [Helicone/helicone](https://github.com/Helicone/helicone)
+5. 🎉 Merged PR [#2987](https://github.com/Helicone/helicone/pull/2987) in [Helicone/helicone](https://github.com/Helicone/helicone)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
