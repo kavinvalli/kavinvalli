@@ -10,6 +10,7 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 - [Website](https://kavin.me)
 - [Linkedin](https://linkedin.com/in/kavinvalli)
 - [Email](mailto:mail@kavin.me)
+- [Youtube (@livecode247)](https://youtube.com/@livecode247)
 ---
 
 ### Latest blog articles
