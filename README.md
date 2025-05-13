@@ -27,8 +27,8 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3691](https://github.com/Helicone/helicone/pull/3691) in [Helicone/helicone](https://github.com/Helicone/helicone)
-2. 💪 Opened PR [#3568](https://github.com/Helicone/helicone/pull/3568) in [Helicone/helicone](https://github.com/Helicone/helicone)
+1. 💪 Opened PR [#3743](https://github.com/Helicone/helicone/pull/3743) in [Helicone/helicone](https://github.com/Helicone/helicone)
+2. 💪 Opened PR [#3691](https://github.com/Helicone/helicone/pull/3691) in [Helicone/helicone](https://github.com/Helicone/helicone)
 3. 💪 Opened PR [#3455](https://github.com/Helicone/helicone/pull/3455) in [Helicone/helicone](https://github.com/Helicone/helicone)
 4. 💪 Opened PR [#3419](https://github.com/Helicone/helicone/pull/3419) in [Helicone/helicone](https://github.com/Helicone/helicone)
 5. 💪 Opened PR [#3392](https://github.com/Helicone/helicone/pull/3392) in [Helicone/helicone](https://github.com/Helicone/helicone)
