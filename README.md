@@ -27,11 +27,11 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4097](https://github.com/Helicone/helicone/pull/4097) in [Helicone/helicone](https://github.com/Helicone/helicone)
-2. 💪 Opened PR [#4097](https://github.com/Helicone/helicone/pull/4097) in [Helicone/helicone](https://github.com/Helicone/helicone)
-3. 🎉 Merged PR [#4078](https://github.com/Helicone/helicone/pull/4078) in [Helicone/helicone](https://github.com/Helicone/helicone)
-4. 💪 Opened PR [#225](https://github.com/Helicone/ai-gateway/pull/225) in [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway)
-5. 💪 Opened PR [#224](https://github.com/Helicone/ai-gateway/pull/224) in [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway)
+1. 🎉 Merged PR [#225](https://github.com/Helicone/ai-gateway/pull/225) in [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway)
+2. 🎉 Merged PR [#4097](https://github.com/Helicone/helicone/pull/4097) in [Helicone/helicone](https://github.com/Helicone/helicone)
+3. 💪 Opened PR [#4097](https://github.com/Helicone/helicone/pull/4097) in [Helicone/helicone](https://github.com/Helicone/helicone)
+4. 🎉 Merged PR [#4078](https://github.com/Helicone/helicone/pull/4078) in [Helicone/helicone](https://github.com/Helicone/helicone)
+5. 💪 Opened PR [#225](https://github.com/Helicone/ai-gateway/pull/225) in [Helicone/ai-gateway](https://github.com/Helicone/ai-gateway)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
