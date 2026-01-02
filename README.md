@@ -3,7 +3,7 @@
 
 ---
 
-My name is Kavin and I am a student and a full stack web developer. I am currently pursuing a bachelor's in Computer Engineering from the University of Waterloo, Canada. Currently working as a Software Engineer Intern at Helicone.
+My name is Kavin and I am a student and a full stack web developer. I am currently pursuing a bachelor's in Computer Engineering from the University of Waterloo, Canada. Currently working as a Software Engineer Intern at Vercel.
 
 ---
 ## Connect with me
