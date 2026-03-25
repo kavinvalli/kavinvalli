@@ -27,8 +27,8 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#298](https://github.com/vercel/chat/pull/298) in [vercel/chat](https://github.com/vercel/chat)
-2. 💪 Opened PR [#5027](undefined) in [Helicone/helicone](https://github.com/Helicone/helicone)
+1. 🎉 Merged PR [#298](https://github.com/vercel/chat/pull/298) in [vercel/chat](https://github.com/vercel/chat)
+2. 💪 Opened PR [#298](https://github.com/vercel/chat/pull/298) in [vercel/chat](https://github.com/vercel/chat)
 3. 💪 Opened PR [#5000](undefined) in [Helicone/helicone](https://github.com/Helicone/helicone)
 4. 💪 Opened PR [#4999](undefined) in [Helicone/helicone](https://github.com/Helicone/helicone)
 5. 💪 Opened PR [#4897](undefined) in [Helicone/helicone](https://github.com/Helicone/helicone)
