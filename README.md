@@ -27,11 +27,11 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/kavinvalli/kavinvalli.github.io/pull/10) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-2. 💪 Opened PR [#9](https://github.com/kavinvalli/kavinvalli.github.io/pull/9) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-3. 🎉 Merged PR [#298](https://github.com/vercel/chat/pull/298) in [vercel/chat](https://github.com/vercel/chat)
-4. 💪 Opened PR [#298](https://github.com/vercel/chat/pull/298) in [vercel/chat](https://github.com/vercel/chat)
-5. 💪 Opened PR [#4897](undefined) in [Helicone/helicone](https://github.com/Helicone/helicone)
+1. 💪 Opened PR [#11](https://github.com/kavinvalli/kavinvalli.github.io/pull/11) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+2. 💪 Opened PR [#3](https://github.com/kavinvalli/normal-website/pull/3) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
+3. 💪 Opened PR [#10](https://github.com/kavinvalli/kavinvalli.github.io/pull/10) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+4. 💪 Opened PR [#9](https://github.com/kavinvalli/kavinvalli.github.io/pull/9) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+5. 🎉 Merged PR [#298](https://github.com/vercel/chat/pull/298) in [vercel/chat](https://github.com/vercel/chat)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
