@@ -27,11 +27,11 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kavinvalli/dotfiles/pull/1) in [kavinvalli/dotfiles](https://github.com/kavinvalli/dotfiles)
-2. 💪 Opened PR [#13](https://github.com/kavinvalli/kavinvalli.github.io/pull/13) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-3. 💪 Opened PR [#12](https://github.com/kavinvalli/kavinvalli.github.io/pull/12) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-4. 💪 Opened PR [#4](https://github.com/kavinvalli/normal-website/pull/4) in [kavinvalli/normal-website](https://github.com/kavinvalli/normal-website)
-5. 💪 Opened PR [#11](https://github.com/kavinvalli/kavinvalli.github.io/pull/11) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+1. 🎉 Merged PR [#1](https://github.com/kavinvalli/dotfiles/pull/1) in [kavinvalli/dotfiles](https://github.com/kavinvalli/dotfiles)
+2. 🎉 Merged PR [#2](https://github.com/kavinvalli/dotfiles/pull/2) in [kavinvalli/dotfiles](https://github.com/kavinvalli/dotfiles)
+3. 💪 Opened PR [#2](https://github.com/kavinvalli/dotfiles/pull/2) in [kavinvalli/dotfiles](https://github.com/kavinvalli/dotfiles)
+4. 💪 Opened PR [#1](https://github.com/kavinvalli/dotfiles/pull/1) in [kavinvalli/dotfiles](https://github.com/kavinvalli/dotfiles)
+5. 💪 Opened PR [#13](https://github.com/kavinvalli/kavinvalli.github.io/pull/13) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
