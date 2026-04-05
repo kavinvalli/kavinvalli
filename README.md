@@ -27,11 +27,11 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#14](https://github.com/kavinvalli/kavinvalli.github.io/pull/14) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-2. 💪 Opened PR [#14](https://github.com/kavinvalli/kavinvalli.github.io/pull/14) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-3. ❌ Closed PR [#92328](https://github.com/vercel/next.js/pull/92328) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 💪 Opened PR [#92328](https://github.com/vercel/next.js/pull/92328) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🎉 Merged PR [#1](https://github.com/kavinvalli/dotfiles/pull/1) in [kavinvalli/dotfiles](https://github.com/kavinvalli/dotfiles)
+1. ℹ️ Labeled PR [#15](https://github.com/kavinvalli/kavinvalli.github.io/pull/15) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+2. 💪 Opened PR [#15](https://github.com/kavinvalli/kavinvalli.github.io/pull/15) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+3. ℹ️ Labeled PR [#14](https://github.com/kavinvalli/kavinvalli.github.io/pull/14) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+4. 💪 Opened PR [#14](https://github.com/kavinvalli/kavinvalli.github.io/pull/14) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+5. ❌ Closed PR [#92328](https://github.com/vercel/next.js/pull/92328) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
