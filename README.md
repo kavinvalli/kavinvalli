@@ -27,11 +27,11 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/kavinvalli/sudocrypt-v11/pull/6) in [kavinvalli/sudocrypt-v11](https://github.com/kavinvalli/sudocrypt-v11)
-2. 💪 Opened PR [#6](https://github.com/kavinvalli/sudocrypt-v11/pull/6) in [kavinvalli/sudocrypt-v11](https://github.com/kavinvalli/sudocrypt-v11)
-3. ℹ️ Labeled PR [#15](https://github.com/kavinvalli/kavinvalli.github.io/pull/15) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-4. 💪 Opened PR [#15](https://github.com/kavinvalli/kavinvalli.github.io/pull/15) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-5. ℹ️ Labeled PR [#14](https://github.com/kavinvalli/kavinvalli.github.io/pull/14) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+1. 💪 Opened PR [#7](https://github.com/kavinvalli/sudocrypt-v11/pull/7) in [kavinvalli/sudocrypt-v11](https://github.com/kavinvalli/sudocrypt-v11)
+2. ❌ Closed PR [#6](https://github.com/kavinvalli/sudocrypt-v11/pull/6) in [kavinvalli/sudocrypt-v11](https://github.com/kavinvalli/sudocrypt-v11)
+3. 💪 Opened PR [#6](https://github.com/kavinvalli/sudocrypt-v11/pull/6) in [kavinvalli/sudocrypt-v11](https://github.com/kavinvalli/sudocrypt-v11)
+4. ℹ️ Labeled PR [#15](https://github.com/kavinvalli/kavinvalli.github.io/pull/15) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+5. 💪 Opened PR [#15](https://github.com/kavinvalli/kavinvalli.github.io/pull/15) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
