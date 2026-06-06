@@ -27,11 +27,11 @@ My name is Kavin and I am a student and a full stack web developer. I am current
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/kavinvalli/kavinvalli.github.io/pull/18#issuecomment-4400003343) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-2. 🗣 Commented on [#18](https://github.com/kavinvalli/kavinvalli.github.io/pull/18#issuecomment-4399994670) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-3. 🗣 Commented on [#19](https://github.com/kavinvalli/kavinvalli.github.io/issues/19#issuecomment-4400026754) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-4. 💪 Opened PR [#20](https://github.com/kavinvalli/kavinvalli.github.io/pull/20) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
-5. 🗣 Commented on [#19](https://github.com/kavinvalli/kavinvalli.github.io/issues/19#issuecomment-4400020813) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+1. 💪 Opened PR [#30](https://github.com/replicas-group/skill/pull/30) in [replicas-group/skill](https://github.com/replicas-group/skill)
+2. 🗣 Commented on [#18](https://github.com/kavinvalli/kavinvalli.github.io/pull/18#issuecomment-4400003343) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+3. 🗣 Commented on [#18](https://github.com/kavinvalli/kavinvalli.github.io/pull/18#issuecomment-4399994670) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+4. 🗣 Commented on [#19](https://github.com/kavinvalli/kavinvalli.github.io/issues/19#issuecomment-4400026754) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
+5. 💪 Opened PR [#20](https://github.com/kavinvalli/kavinvalli.github.io/pull/20) in [kavinvalli/kavinvalli.github.io](https://github.com/kavinvalli/kavinvalli.github.io)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
